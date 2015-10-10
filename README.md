@@ -2,7 +2,7 @@
 侧拉菜单
 1.布局文件中使用
   
-  <com.example.slidingmenuview.SplideView
+ 	 <com.example.slidingmenuview.SplideView
         android:id="@+id/sv_slide"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
