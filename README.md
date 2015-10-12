@@ -1,5 +1,11 @@
 # SlidingMenuView
 侧拉菜单
+
+
+#####动画描述：
+
+![icon](111111.gif)
+
 1.布局文件中使用
   
  	 <com.example.slidingmenuview.SplideView
@@ -31,7 +37,7 @@
         splideView.setToggle();
     }
     
-    It'there you can do what you want to do .
+####It'there you can do what you want to do .
    
     
      
